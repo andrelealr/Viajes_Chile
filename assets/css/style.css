@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+.viajes.chile{
+    margin-right: 20%;
+}
+
+.quienes_somos{
+    height: 550px;
+}
+
+h1{
+    font-size: 22px;
+}
+    
+.parrafo1{
+    font-size: 16px;
+}
+
+header{
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.container_icons{
+    background-color: #16a2b7;
+    height: 12%;
+    font-size: 30px;
+}
+
+.card-body{
+    background-color: #16a2b7;
+}
+
+.card-title{
+    font-size: 18px;
+}
+
+.card-text{
+    font-size: 15px;
+}
+
+#exampleInputMensaje1{
+    height: 200px;
+}
+
+.enviar_boton{
+    background-color: #16a2b7;
+    outline: #16a2b7;
+    color: #ffffff;
+    
+}
+
+.container_footer{
+    background-color: #16a2b7;
+    height: 80px;
+}
+
+.viajes{
+    font-family: 'Roboto', sans-serif;;
+}
+
+.icono{
+    color: #ffffff;
+}
